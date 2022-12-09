@@ -1,0 +1,22 @@
+.DS_Store
+
+.cache/
+node_modules/
+
+npm-debug.log
+yarn-error.log
+
+dist/
+dev/
+
+*.tgz
+coverage/
+
+.vscode
+.idea
+
+# docs/book/
+# docs/CONTRIBUTING.md
+# docs/CHANGELOG.md
+# docs/README.md
+docs-build/
